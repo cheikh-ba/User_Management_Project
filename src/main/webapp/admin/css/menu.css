@@ -1,0 +1,43 @@
+#navbarContent li:hover .submenu{
+	display: inline-block;
+	position: absolute;
+	top: 100%;
+	left: 0px;
+	padding-left: 0px;
+	z-index: 1000;
+	background-color: #343a40!important;
+	border-radius: 5px;
+}
+#navbarContent a{
+	display: inline-block;
+	text-decoration:none;
+}
+
+.submenu li a{
+	padding: 15px;
+	font-size:13px;
+	color: #FFF;
+	width: 200px;
+	text-align:center;
+	text-decoration:none;
+}
+#navbarContent > ul > li > a {
+	padding: 15px;
+	color: #FFF;
+}
+#navbarContent > ul  > li {
+	float: left;
+	position: relative;
+}
+
+.submenu{
+	display: none;
+}
+.submenu li:hover{
+	background-color: #343a54!important;
+	border-radius: 5px;
+}
+#navbarContent li:hover{
+	background-color: #343a54!important;
+	border-radius: 5px;
+}

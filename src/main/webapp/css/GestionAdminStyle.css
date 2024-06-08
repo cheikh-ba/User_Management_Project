@@ -1,0 +1,29 @@
+#newsletter{
+	border: 1px solid #26b ;
+	border-radius: 5px;
+	width: 80%;
+	margin-left: 10%;
+}
+table{
+	margin-left : 150px;
+}
+#tableCP{
+	margin-left : 400px;
+}
+#tableCM{
+	margin-left : 330px;
+}
+#tableLH{
+	margin-left : 340px;
+}
+body{
+	background-image: url(../img/bg2_admin.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+th{
+	width:20%;
+}
+.datepicker-dropdown {
+  padding: 20px !important;
+}

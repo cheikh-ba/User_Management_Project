@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+#record{
+	background-image:url(../img/bg1_admin.jpg);
+	background-position:center;
+	background-size:cover
+}
+#gestionAnalyse{
+	background-image:url(../img/analyse.jpg);
+	background-position:center;
+	background-size:cover
+}
+#gestionConsultation{
+	background-image:url(../img/consultation.jpg);
+	background-position:center;
+	background-size:cover
+}
+#Hospitalisation{
+	background-image:url(../img/Patient.png);
+	background-position:center;
+	background-size:cover
+}
+#listeHopital{
+	background-image:url(../img/listeHopital.png);
+	background-position:center;
+	background-size:cover
+}
+#gestionRDV{
+	background-image:url(../img/gestionRDV.jpg);
+	background-position:center;
+	background-size:cover
+}
+#compteHopital{
+	background-image:url(../img/hopital.jpg);
+	background-position:center;
+	background-size:cover
+}
+#compteMedecin{
+	background-image:url(../img/doctor.jpg);
+	background-position:center;
+	background-size:cover
+}
+.bg-register-image{
+	background-image:url(../img/Patient.png);
+	background-position:center;
+	background-size:cover
+}
